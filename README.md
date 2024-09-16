@@ -101,7 +101,7 @@ mern-app/
 ## Testing
 
 - **Frontend**: Open [http://localhost:3000](http://localhost:3000) in your browser to interact with the React app.
-- **Backend**: Ensure the server is running and accessible at [http://localhost:5000](http://localhost:4000).
+- **Backend**: Ensure the server is running and accessible at [http://localhost:5000](http://localhost:5000).
 
 ## Troubleshooting
 
