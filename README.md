@@ -1,5 +1,9 @@
+
+<div align="center">
+    
 # 🌟 MERN User Registration 🌟
 
+</div> 
 
 ## Overview
 
@@ -108,4 +112,29 @@ mern-app/
 - Ensure MongoDB is running and accessible.
 - Verify the backend server logs for any errors.
 - Check the network tab in your browser's developer tools for any failed API requests.
+
+
+---
+
+<div align="center">
+
+# 🌟 **All Rights Reserved by** 🌟  
+### `Sajib Bhattacharjee`  @2024  
+
+---
+
+### 👨‍💻 **Created By** ➡️  
+**&copy; `Sajib Bhattacharjee`**  
+
+---
+
+### 💖 **Dedicated to** 💖  
+### _💕 **"Zahan"** 💕_
+
+---
+
+### 🙏 **Thanks A Lot for Visiting** 🙏  
+### ✨ **Come Back Soon!** ✨  
+
+</div>
 
